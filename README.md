@@ -44,3 +44,5 @@ On the home page, the user enters their details and selects their load shedding 
 On submit, their info is stored in a cookie and their zone is stored in session state, then they're redirected to the results page
 The results page greets the user and shows their zone
 Selecting a date on the calendar shows that day's load shedding forecast — each zone has two fixed outage windows per day, except on its two designated "safe" days each week
+
+Built by [Jabulane Mashinini] as a portfolio project.
